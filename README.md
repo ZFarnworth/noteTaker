@@ -2,6 +2,9 @@
 
 ## Links
 
+https://github.com/ZFarnworth/noteTaker
+https://notetakerzfarny.herokuapp.com/
+
 ## Table of Contents
 
 - [Usage](#usage)
