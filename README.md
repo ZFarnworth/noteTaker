@@ -15,7 +15,7 @@ https://notetakerzfarny.herokuapp.com/
 
 Note taking app that allows you to put a title and description of a task.
 
-## Installation:
+## Installation
 
 Download or Clone the github repo and install dependencies such as Node.js, inquirer and Jest.
 https://nodejs.org/en/download/
@@ -29,7 +29,7 @@ No License
 
 Zac Farnworth
 
-## Usage (After Installation):
+## Usage
 
 ![image](./img/note1.png)
 
