@@ -7,9 +7,9 @@ https://notetakerzfarny.herokuapp.com/
 
 ## Table of Contents
 
-- [Usage](#usage)
+- [Usage](#Usage)
 - [Description](#Description)
-- [Installation:](#Installation:)
+- [Installation](#Installation)
 
 ## Description
 
